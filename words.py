@@ -1,0 +1,1 @@
+words = ["abruptly","absurd","abyss","affix","askew","avenue","awkward","bagpipes","bandwagon","beekeeper","bikini","blitz","blizzard","cockiness","croquet","crypt","disavow","dizzying","duplex","flopping","fluffiness","gabby","galaxy","haphazard","hyphen","jackpot","jaundice","jigsaw","lengths","lucky"]
